@@ -20,5 +20,5 @@ This project is a Django-based dashboard application that allows users to manage
 
 ##images
 
-![LoadDashboard](AkashVidai123-Django-backend-assignment\dashboard.png) 
+![LoadDashboard](dashboard.png) 
 
