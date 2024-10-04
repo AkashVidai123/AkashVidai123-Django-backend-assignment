@@ -21,4 +21,6 @@ This project is a Django-based dashboard application that allows users to manage
 ##images
 
 ![LoadDashboard](dashboard.png) 
+![LoadDashboard](image.png) 
+![LoadDashboard](login.png) 
 
