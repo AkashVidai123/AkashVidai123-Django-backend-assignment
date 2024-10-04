@@ -36,5 +36,5 @@ python manage.py runserver
 # at local it will redicat admin login
 # after logout from loacal it will rediract to use login
 #after login useer it will show dashboard and activites of done by user
-![LoadDashboard](/dashboard.png) 
+![LoadDashboard](dashboard.png) 
 
