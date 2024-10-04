@@ -37,6 +37,7 @@ python manage.py runserver
 # after logout from loacal it will rediract to use login
 #after login useer it will show dashboard and activites of done by user   
 
+##images
 
 ![LoadDashboard](AkashVidai123-Django-backend-assignment\dashboard.png) 
 
